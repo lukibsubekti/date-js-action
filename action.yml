@@ -1,0 +1,13 @@
+name: 'Show Date'
+description: 'Show current or specified date using JS'
+inputs:
+  date:
+    description: 'Specific date result'
+    required: false
+outputs:
+  date:
+    description: 'The time you call'
+
+runs:
+  using: node16
+  main: dist/index.js
