@@ -1,5 +1,5 @@
 {
-  "name": "date-js-action",
+  "name": "@lukibsubekti/date-js-action",
   "version": "1.0.0",
   "main": "dist/index.js",
   "license": "MIT",
